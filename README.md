@@ -2,7 +2,7 @@
 
 Gnome-shell extension that improves window tiling capabilities of stock gnome-shell.
 
-gTile is used to moves/resize windows on a configurable grid scheme.
+gTile is used to move/resize windows on a configurable grid scheme.
 
 It can be used with either the mouse, or keyboard, including customizable keyboard presets for immediate window placement.
 
@@ -116,17 +116,17 @@ You can do auto tiling for all windows on screen
 
 1. Activate gTile by pressing `Super`+`KP_Enter` or clicking on gTile icon
 2. Click on one of 2 autotile buttons, or
-3. Press one of `[1..9,0]` (total 10 available) for vertical columns autotiling, or `M` for "main" autotailing
+3. Press one of `[1..9,0]` (total 10 available) for vertical columns autotiling, or `M` for "main" autotiling
 
-## Snap-To-Neighbors
+## Snap-To-Neighbor
 
-You can expand window - it will fill all available space up to borders with neighbors.
+You can expand window - it will fill all available space up to its neighbors.
 Default keyboard shortcut is `<Alt><Ctrl>s`
 Snap-to-neighbors works only when gTile window is activated
 
-1. Focus on window you want to expand to fill space up to neighobrs borders
+1. Focus on window you want to expand to fill space up to neighbor's border
 2. Activate gTile window `<Super>Enter`
-3. Press `<Alt><Ctrl>s`. Your windows will snap to neighbors.
+3. Press `<Alt><Ctrl>s`. Your window will snap to its neighbor.
 4. Close gTile window `Escape`
 
 
